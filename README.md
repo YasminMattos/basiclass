@@ -3,4 +3,4 @@
 
 - ## **Objetivo**
 
-    Usar del DOM para modificar la esructura HTML agregando etiquetas y estilos.
+    Mediante un ejercicio básico usar del DOM para modificar la estructura HTML agregando etiquetas y estilos.
